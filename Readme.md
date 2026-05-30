@@ -4,8 +4,6 @@
 Automated inspection system for fiber optic connectors built with Python and OpenCV.
 Replicates IEC 61300-3-35 Nokia-grade quality control workflow.
 
-## Output
-![Result](fiber_inspection_result.png)
 
 ## Technologies Used
 - Python
